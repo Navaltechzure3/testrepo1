@@ -9,6 +9,6 @@
 <body>
 <h1> Hello pages 1.3</h1>
 <h1> This is 2nd commit on feature branch</h1>
-<h1> This is 3rd commit on feature branch</h1>
+<h1> This is 3rd commit on feature branch </h1>
 </body>
 </html>
